@@ -5,6 +5,9 @@ print("Welcome to Tool Hack Whatsapp")
 
 
 whatshack$
+
 cd whatshack/
+
 cd whatshack/
+
 python3 WhatsHack.py
